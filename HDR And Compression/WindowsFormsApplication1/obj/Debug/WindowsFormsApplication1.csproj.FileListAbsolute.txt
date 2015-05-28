@@ -1,0 +1,57 @@
+c:\users\rick\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2012\Projects\TIFFMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rick\Downloads\Project1 (Submission)\Source Code\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Desktop\HDR And Compression\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\GitHub\HDR-Builder-Compresser\HDR And Compression\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Detail.resources
